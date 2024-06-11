@@ -1,6 +1,6 @@
 import os
 
-directory = r'C:\Users\Nathan\Pictures\New folder\Photos-001 (4)'
+directory = r'add directory'
 
 # List all files in the directory
 files = os.listdir(directory)
